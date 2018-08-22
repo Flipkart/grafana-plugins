@@ -1,1 +1,1 @@
-# grafana-plugins
+# grafana-plugin
